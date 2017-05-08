@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test your knowledge</string>
+    <string name="question_one">Who is the only British Prime Minister to have received the Nobel Prize in Literature?</string>
+    <string name="question_two">Which of the following is used to represent alphanumeric characters in computers</string>
+    <string name="question_three">Which of the following airports are located in London</string>
+    <string name="question_four">What is the capital city of South Korea?</string>
+    <string name="question_five">Which one is the flag of Sweden?</string>
+    <string name="gatwick_airport">Gatwick Airport</string>
+    <string name="heathrow_airport">Heathrow Airport</string>
+    <string name="arlanda_airport">Arlanda Airport</string>
+    <string name="stansted_airport">Stansted Airport</string>
+    <string name="display_score">Display Score</string>
+    <string name="anthony_eden">Anthony Eden</string>
+    <string name="clement_attlee">Clement Attlee</string>
+    <string name="harold_macmillan">Harold Macmillan</string>
+    <string name="sir_winston_churchill">Sir Winston Churchill</string>
+</resources>
